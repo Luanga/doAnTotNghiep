@@ -7,3 +7,4 @@ esc M markdown cell
 esc Y code cell
 $ $ -> bieu thuc toán học --> $$ $$ đẹp hơn zô giữa
 \pi --> thành Pi latex
+cap nhat
